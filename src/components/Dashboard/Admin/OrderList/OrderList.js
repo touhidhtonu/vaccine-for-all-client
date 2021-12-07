@@ -16,7 +16,8 @@ const OrderList = () => {
     return (
         <div className="container-fluid row " >
             <Sidebar></Sidebar>
-            <div className="col-md-10 p-4 pr-5 row" style={{ position: "absolute", right: 0, backgroundColor: "#F4FDFB" }}>
+            <div className="col-md-10 p-4 pr-5 row text-center" style={{ position: "absolute", right: 0, backgroundColor: "#F4FDFB" }}>
+            <h4>Order List</h4>
                 <Link to='/allOrder' className="btn btn-primary m-5 col-md-3">Show All Order</Link>
                 <Link to='/orderByLocation' className="btn btn-primary m-5 col-md-3">Show By Location</Link>
 

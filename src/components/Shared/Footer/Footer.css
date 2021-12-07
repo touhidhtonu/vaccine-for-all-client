@@ -1,6 +1,6 @@
 .footer-area{
-    background-color: #08ac6c;
-    opacity: 0.9;
+    background-color: #78944c;
+    
     background-size: cover;
     color: aliceblue
     
@@ -9,7 +9,7 @@
 
 .footer-area li{
     padding-bottom: 5px;
-    color: aliceblue;
+    color: rgb(251, 253, 255);
     
 }
 

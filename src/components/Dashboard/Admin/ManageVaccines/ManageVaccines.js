@@ -29,8 +29,10 @@ const ManageVaccines = () => {
             <div className="col-md-2">
                 <Sidebar></Sidebar>
             </div>
-            <div className="col-md-10">
-                <h6>Manage Vaccines</h6>
+            <div className="col-md-10 text-center" >
+                <h4>Manage Vaccines</h4>
+
+        
                 <div>
                 <LocationForm handleSubmit={handleSubmit} searchInfo={searchInfo} setSearchInfo={setSearchInfo}></LocationForm>
                 </div>

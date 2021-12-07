@@ -28,6 +28,7 @@ const MakeAdmin = () => {
                 <Sidebar></Sidebar>
             </div>
             <div className="col-md-10 text-center border border-primary">
+            <h4>Make Admin</h4>
                 <form onSubmit={handleSubmit} >
                     <input type="text" className='form-control' name="email" onChange={handleChange} placeholder='Email address' required />
                     <br />
