@@ -23,5 +23,4 @@ In the project, there are:
 ### Add and Edit Vaccine List
 
 
-## Live Site
-Live Site Link: https://vaccine-for-all.web.app/
+
